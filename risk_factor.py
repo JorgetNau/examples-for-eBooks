@@ -1,3 +1,4 @@
+# Autor JorgetNau
 # Program to calculate a risk factor's rating
 # Created for the eBook "Risk Management Strategies"
 
