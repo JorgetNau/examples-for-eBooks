@@ -1,3 +1,4 @@
+# Autor JorgetNau
 # Programme pour calculer l'évaluation d'un facteur de risque
 # Créé pour le livre électronique "Stratégies de Gestion des Risques"
 
